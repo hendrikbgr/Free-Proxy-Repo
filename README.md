@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="source.gif" alt="alt text" width="2000px">
+  <img src="gif.gif" alt="alt text" width="2000px">
   <div>
     <h1>FREE FRESH DAILY PROXY LIST</h1>
     <h3>Updated Multiple times per Day</h3>
