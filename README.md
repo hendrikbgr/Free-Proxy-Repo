@@ -2,7 +2,7 @@
   <img src="gif.gif" alt="alt text" width="2000px">
   <div>
     <h1>FREE FRESH DAILY PROXY LIST</h1>
-    <h3>Updated Multiple times per Day</h3>
+    <h3>UPDATED EVERY HOUR</h3>
     <a href="https://raw.githubusercontent.com/hendrikbgr/Free-Proxy-Repo/master/proxy_list.txt" target="_blank">-> Download Now <-</a>
   </div>
 </div>
