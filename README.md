@@ -8,7 +8,7 @@
 <hr>
 
 <div align="center">
-  <h3>Proxy-Pool-API</h3>
+  <h3>Proxy-Pool-API | Powered by this Repo</h3>
   <br>
   <a href="https://proxy-pool-api.onrender.com" target="_blank">
     <img src="proxy.gif" alt="alt text" width="2000px">
