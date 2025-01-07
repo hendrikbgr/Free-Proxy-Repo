@@ -13,7 +13,9 @@
   <a href="https://proxy-pool-api.onrender.com" target="_blank">
     <img src="proxy.gif" alt="alt text" width="2000px">
   </a>
-  <p>Access a 100% free proxy pool API! Quickly and easily integrate proxies into your projects. Visit <a href="https://proxy-pool-api.onrender.com" target="_blank">proxy-pool-api.onrender.com</a> to get started.</p>
+  <p>Access a 100% free proxy pool API! Quickly and easily integrate proxies into your projects.</p>
+  <br>
+  <p> Visit <a href="https://proxy-pool-api.onrender.com" target="_blank">proxy-pool-api.onrender.com</a> to get started.</p>
 </div>
 
 <hr>
