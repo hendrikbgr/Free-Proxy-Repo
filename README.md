@@ -1,32 +1,31 @@
-<h3>
-        <h3>CapSolver.com</h3>
-        <br>
-        <a href="https://dashboard.capsolver.com/passport/register?inviteCode=PIwYcBWg1MWK">
-            <img src="https://cdn.discordapp.com/attachments/1139171433436684288/1139244499311284324/20230809-142857.gif" alt="Capsolver's Banner">
-        </a>
-</h3>
-<br>
-At the lowest price on the market, you may receive a variety of solutions, including reCAPTCHA V2, reCAPTCHA V3, hCaptcha, hCaptcha Click, FunCaptcha, picture-to-text, and more. With this service, 0.1s is the slowest speed ever measured.
+<div align="center">
+  <h1>FREE FRESH DAILY PROXY LIST</h1>
+  <h3>UPDATED EVERY HOUR</h3>
+  <a href="https://raw.githubusercontent.com/hendrikbgr/Free-Proxy-Repo/master/proxy_list.txt" target="_blank">-> Download Now <-</a>
+</div>
+
 <hr>
 
 <div align="center">
-  <img src="gif.gif" alt="alt text" width="2000px">
-  <div>
-    <h1>FREE FRESH DAILY PROXY LIST</h1>
-    <h3>UPDATED EVERY HOUR</h3>
-    <a href="https://raw.githubusercontent.com/hendrikbgr/Free-Proxy-Repo/master/proxy_list.txt" target="_blank">-> Download Now <-</a>
-  </div>
+  <h3>Proxy-Pool-API</h3>
+  <br>
+  <a href="https://proxy-pool-api.onrender.com" target="_blank">
+    <img src="https://via.placeholder.com/800x200.png?text=Proxy-Pool-API+Banner" alt="Proxy-Pool-API Banner">
+  </a>
+  <p>Access a 100% free proxy pool API! Quickly and easily integrate proxies into your projects. Visit <a href="https://proxy-pool-api.onrender.com" target="_blank">proxy-pool-api.onrender.com</a> to get started.</p>
 </div>
+
+<hr>
 
 # 🔥 Version 0.0.3 🔥
 
-This is the first version of my fully automated github repo & proxy scraper. My proxy scraper & checker is running on my local raspberry pi 4+ and is updating the proxy list once scraped and checked. After that it will restart the whole progress.
+This is the first version of my fully automated GitHub repo & proxy scraper. My proxy scraper & checker runs on my local Raspberry Pi 4+ and updates the proxy list once scraped and checked. After that, the whole process restarts.
 
-My script crawls over 60+ Websites and more then 270+ urls and finds all public proxies available. All proxies are checked before they get updated here.
+My script crawls over 60+ websites and more than 270+ URLs to find all public proxies available. All proxies are checked before being updated here.
 
 # Proxy Scraper & Checker
 
-  You can find the Porxy Scrapers repo here [Proxy-Scraper](https://github.com/hendrikbgr/Proxy-Scraper)
+You can find the Proxy Scraper's repo here: [Proxy-Scraper](https://github.com/hendrikbgr/Proxy-Scraper)
 
 🚀 Automate your Proxy Scraping 🚀
 
@@ -34,20 +33,19 @@ My script crawls over 60+ Websites and more then 270+ urls and finds all public 
 
 ## Features
 
-* Scrape all public proxies from preset urls
-* Scrape all links from the preset urls
-    * Scrape all public proxies from there
-* Save all scraped proxies to file
-* Remove Duplicate Proxies
-* Check all Proxies and save them to file
-    * checked on www.google.com
+- Scrape all public proxies from preset URLs.
+- Scrape all links from the preset URLs.
+  - Scrape all public proxies from the discovered links.
+- Save all scraped proxies to a file.
+- Remove duplicate proxies.
+- Check all proxies and save them to a file.
+  - Checked on www.google.com.
 
 ### Support 👨‍💻
 
-#### Email 📩
+#### Contact 📩
 
-Any problems with running the script and any questions please cantact me via Twitter [@hendrik_bgr](https://twitter.com/Hendrik_bgr)
+If you encounter any issues with running the script or have questions, feel free to reach out to me:
 
-Or via email under [hendriksdevmail@gmail.com](mailto:hendriskdevmail@gmail.com)
-
-
+- **Twitter:** [@hendrik_bgr](https://twitter.com/Hendrik_bgr)
+- **Email:** [hendriksdevmail@gmail.com](mailto:hendriksdevmail@gmail.com)
