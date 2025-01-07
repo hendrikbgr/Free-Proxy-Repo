@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="gif.gif" alt="alt text" width="2000px">
   <h1>FREE FRESH DAILY PROXY LIST</h1>
   <h3>UPDATED EVERY HOUR</h3>
   <a href="https://raw.githubusercontent.com/hendrikbgr/Free-Proxy-Repo/master/proxy_list.txt" target="_blank">-> Download Now <-</a>
@@ -10,7 +11,7 @@
   <h3>Proxy-Pool-API</h3>
   <br>
   <a href="https://proxy-pool-api.onrender.com" target="_blank">
-    <img src="https://via.placeholder.com/800x200.png?text=Proxy-Pool-API+Banner" alt="Proxy-Pool-API Banner">
+    <img src="proxy.gif" alt="alt text" width="2000px">
   </a>
   <p>Access a 100% free proxy pool API! Quickly and easily integrate proxies into your projects. Visit <a href="https://proxy-pool-api.onrender.com" target="_blank">proxy-pool-api.onrender.com</a> to get started.</p>
 </div>
