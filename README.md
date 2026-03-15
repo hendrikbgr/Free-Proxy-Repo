@@ -15,7 +15,7 @@
   </a>
   <p>Access a 100% free proxy pool API! Quickly and easily integrate proxies into your projects.</p>
   <br>
-  <p> Visit <a href="https://proxy-pool-api.vercel.app/" target="_blank">proxy-pool-api.onrender.com</a> to get started.</p>
+  <p> Visit <a href="https://proxy-pool-api.vercel.app/" target="_blank">proxy-pool-api.vercel.app</a> to get started.</p>
 </div>
 
 <hr>
